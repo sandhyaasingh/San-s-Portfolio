@@ -45,7 +45,7 @@ import jupyter from "./tech/Jupyter.png";
 import arduino from "./tech/Arduino.png";
 import postman from "./tech/Postman.png";
 import firebase from "./tech/Firebase.png";
-import git from "./tech/git.png";
+import git from "./tech/Git.png";
 import github from "./tech/github.png"; // ✅ fixed path
 
 // Export everything
