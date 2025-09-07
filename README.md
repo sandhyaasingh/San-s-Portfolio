@@ -6,7 +6,7 @@ Welcome to my personal portfolio! Explore my projects, skills, and the work I've
 
 ## Live Portfolio
 
-Check it out here: [San's Portfolio](https://san-s-portfolio-hnwz.vercel.app)
+Check it out here: [San's Portfolio](https://san-s-portfolio-hnwz.vercel.app/)
 
 ---
 
