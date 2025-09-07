@@ -15,7 +15,7 @@ import p6 from "./p6.jpg";
 import ezzy from "./ezzy.png";
 
 // Web techs & databases
-import mysql from "./tech/mysql.png";
+import mysql from "./tech/MySQL.png";
 import html from "./tech/HTML5.png";
 import javascript from "./tech/JavaScript.png";
 import mongodb from "./tech/mongodb.png";
