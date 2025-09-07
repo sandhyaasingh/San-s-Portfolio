@@ -18,7 +18,7 @@ import ezzy from "./ezzy.png";
 import mysql from "./tech/MySQL.png";
 import html from "./tech/HTML5.png";
 import javascript from "./tech/JavaScript.png";
-import mongodb from "./tech/mongodb.png";
+import mongodb from "./tech/MongoDB.png";
 import reactjs from "./tech/React.png";
 import css from "./tech/CSS.png";
 
